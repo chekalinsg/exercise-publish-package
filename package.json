@@ -1,0 +1,22 @@
+{
+  "name": "@chekalinsg/exercise-publish-package",
+  "version": "1.0.0",
+  "description": "Test Node.js package",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chekalinsg/exercise-publish-package.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Sergey Chekalin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chekalinsg/exercise-publish-package/issues"
+  },
+  "homepage": "https://github.com/chekalinsg/exercise-publish-package#readme"
+}
